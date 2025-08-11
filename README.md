@@ -1,1 +1,1 @@
-# Tareas-Inteligencia-Artificial
+# Inteligencia-Artificial
