@@ -26,3 +26,7 @@ tipo I (Overweight_Level_I) y sobrepeso tipo II (Overweight_Level_II) para valor
 25.0 y 29.9, obesidad tipo I (Obesity_Type_I) para valores entre 30.00 y 34.9, obesidad
 tipo II (Obesity_Type_II) para valores entre 35.0 y 39.9, y obesidad tipo III
 (Obesity_Type_III) para valores superiores a 40.0
+Este proyecto incluye los siguientes documentos:
+- [Reporte en formato ipynb](./prueba.ipynb)
+- [Reporte en formato html](./prueba.html)
+- [Base de datos](./datos.csv)
