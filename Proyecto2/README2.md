@@ -17,6 +17,6 @@ La base de datos cuenta con la siguiente información:
 - “Pais”. Se describe el nombre del país.
 - “Felicidad”. Un número entre 0 y 10 que describe el nivel de felicidad.
 - “GDP”. Un número que describe el producto interno bruto.
-- [Reporte en formato ipynb](./Jupiter12.ipynb)
-- [Reporte en formato html](./HTML12.html)
-- [Base de datos](./FelicidadyGDP.csv)
+- [Reporte en formato ipynb](./Proyecto2./Jupiter12.ipynb)
+- [Reporte en formato html](./Proyecto2./HTML12.html)
+- [Base de datos](./Proyecto2./FelicidadyGDP.csv)
